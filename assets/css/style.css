@@ -63,6 +63,11 @@ nav a:hover {
     height: auto;
 }
 
+#locationlist {
+list-style: none;
+
+}
+
 .service {
     display: inline-block;
     background-color: white;
